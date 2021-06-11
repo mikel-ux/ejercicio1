@@ -1,0 +1,18 @@
+
+
+body{
+    background-color: black;  /*fondo de color*/
+    color:rgb(0, 255, 170); /*color de letra*/
+    font-size: 20px;
+
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    text-align: right;
+    color: #e100ff;
+    margin-right: 5%;
+}
